@@ -1,16 +1,16 @@
-Copyright Warning
+Aviso de Copyright
 =================
 
-Do not use any of the graphics or music found in this folder in your own games.
+No utilice cualquiera de los gráficos o la música que se encuentran en esta carpeta en sus propios juegos.
 
-You are free to use them for testing and prototypes, but do not release them in a commercial game.
-That includes games sold on MarketJS, or any game running advertisements such as via Google or Leadbolt.
+Usted es libre de utilizarlos para pruebas y prototipos, pero no se libera en un juego comercial.
+Eso incluye juegos que se venden en MarketJS, o cualquier juego que ejecuta los anuncios, como a través de Google o Leadbolt.
 
-Why? because lots of the graphics in here come from commercial games themselves.
+¿Por qué? porque muchos de los gráficos de aquí provienen de los propios juegos comerciales.
 
-For example sprites borrowed from Xenon 2, Metal Slug, Dig Dug and various console and Amiga games.
+Por ejemplo, los sprites tomados de xenón 2, Metal Slug, Dig Dug y diversos consola y juegos de Amiga.
 
-These graphics are still owned by their copyright holders, and using them in something seen to be making money
-is a really bad idea on your part, ok?
+Estos gráficos aún son propiedad de sus titulares de derechos de autor, y su uso en algo visto a estar ganando dinero
+es realmente una mala idea de su parte, de acuerdo?
 
-Plus, it's just not cool.
+Además, es sólo que no se enfríe.
