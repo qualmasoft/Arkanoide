@@ -1,5 +1,5 @@
 # Arkanoide
-Ejemplo del juego Arkanoid para MiriadaX
+Ejemplo del juego Arkanoid para MiriadaX con sonidos añadidos
 
 <img src="https://phaser.io/images/examples/2/thumb/games/breakout.jpg" align="center">
 
@@ -15,3 +15,5 @@ Phaser se distribuye bajo la licencia [MIT](http://opensource.org/licenses/MIT).
 
 Tenga en cuenta que esta licencia no cubre los gráficos o archivos de audio que se encuentran ubicados en
 este repositorio. Ninguno de ellos son para ser utilizados en los juegos comerciales.
+
+Si colaboras al desarrollo o mejoras del mismo, no olvides citar el origen del código y su autor.
